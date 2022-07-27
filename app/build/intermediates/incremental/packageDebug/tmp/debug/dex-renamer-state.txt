@@ -1,0 +1,4 @@
+#Tue Jul 26 14:18:34 WIB 2022
+base.0=/Users/reyhankelas7bputrabukyayah/Desktop/semua_folder/KotlinProject/DessertClicker-Starter/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
